@@ -1,5 +1,5 @@
 [ORG 0x100]
-
+	; program to find max sum of 3 number's of student id.
 	mov ax, 0
 	mov bx, id	; point bx to first no of id
 	mov bp, 0
